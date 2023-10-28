@@ -5,4 +5,4 @@ Marcador de tarefas
 
 Serve como agenda, lembrete e (etc...)
 
-Copiei do Matheus Battisti do youtube, usei o projeto para aprender mais e atualizar meu github.
+
